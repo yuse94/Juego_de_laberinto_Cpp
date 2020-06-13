@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1592011378 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\main.cpp
+	<iostream>
+	"Player.h"
+	"Enemy.h"
+	"MapCell.h"
+	"GameMap.h"
+	<stdlib.h>
+	<conio.h>
+
+1591988474 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\src\mapcell.cpp
+	"MapCell.h"
+	"Enemy.h"
+
+1591907133 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1591838980 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\src\mapcell.h
+
+1591842114 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\src\player.h
+
+1592011792 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1591893263 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\src\gamemap.h
+	"MapCell.h"
+
+1591842114 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\include\player.h
+
+1591988459 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\include\mapcell.h
+
+1592011058 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\include\gamemap.h
+	"MapCell.h"
+	<iostream>
+
+1592008784 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\src\enemy.cpp
+	"Enemy.h"
+
+1591998030 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\include\enemy.h
+	"Player.h"
+

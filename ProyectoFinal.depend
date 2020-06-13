@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1591847077 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\proyectofinal\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1591842114 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\proyectofinal\include\player.h
+
+1591851066 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\proyectofinal\main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+	"GameMap.h"
+
+1591838980 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\proyectofinal\include\mapcell.h
+
+1591843477 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\proyectofinal\src\mapcell.cpp
+	"MapCell.h"
+
+1591850880 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\proyectofinal\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
+1591849173 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\proyectofinal\include\gamemap.h
+	"MapCell.h"
+
