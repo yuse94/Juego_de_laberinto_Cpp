@@ -1,5 +1,5 @@
-#include "MapCell.h"
-#include "Enemy.h"
+#include "../include/MapCell.h"
+#include "../include/Enemy.h"
 
 MapCell::MapCell()
 {

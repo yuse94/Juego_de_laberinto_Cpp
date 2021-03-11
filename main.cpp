@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Player.h"
-#include "Enemy.h"
-#include "MapCell.h"
-#include "GameMap.h"
+#include "include/Enemy.h"
+#include "include/Enemy.h"
+#include "include/MapCell.h"
+#include "include/GameMap.h"
 #include <stdlib.h>
 #include <conio.h>
 

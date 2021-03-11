@@ -1,4 +1,4 @@
-#include "GameMap.h"
+#include "../include/GameMap.h"
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
@@ -63,7 +63,7 @@ bool GameMap::SetPlayerCell(int PlayerX, int PlayerY)
         }else{
             if(PlayerCell != NULL)
             {
-                PlayerCell->id = 0;
+                PlayerCell->id = 32;
             }
             PlayerCell = &cells[PlayerY][PlayerX];
             PlayerCell->id = 1;
@@ -91,7 +91,7 @@ bool GameMap::SetEnemyCell(int EnemyX, int EnemyY, int lastX, int lastY)
             isGameOver = true;
         }
         EnemyCell = &cells[lastY][lastX];
-        EnemyCell->id = 0;
+        EnemyCell->id = 32;
         EnemyCell = &cells[EnemyY][EnemyX];
         EnemyCell->id = 2;
         return false;
@@ -205,7 +205,7 @@ void GameMap::LoadMapFromFile(int level)
                 }
                 else if(line[j] == '.')
                 {
-                    cells[i][j].id = 0;
+                    cells[i][j].id = 32;
                 }else if(line[j] == '*')
                 {
                     cells[i][j].id = 176;
