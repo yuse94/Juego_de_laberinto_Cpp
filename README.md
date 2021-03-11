@@ -1,2 +1,2 @@
-# juegoEnConsola
-Juego de laberinto simple realizado en c++
+# juego_de_laberinto_Cpp
+Primera versión de juego de laberinto hecho en c++
