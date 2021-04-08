@@ -225,10 +225,10 @@ void GameMap::LoadMapFromFile(int level)
 void GameMap::musicaJuego()
 {
 	unsigned char i;
-	unsigned int notas[8]={294,247,330,330,330,220,392};
-	unsigned int tiempo[8]={294,247,330,330,330,220,392};
+	unsigned int notas[8]={750,500,750,500,750,500,750};
+	unsigned int tiempo[8]={300,300,300,300,300,300,300};
 
-	for(i = 0; i < 8; i++)
+	for(i = 0; i < 7; i++)
 	{
 		Beep (notas[i],tiempo[i]);
 	}

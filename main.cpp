@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
     system("color F0");     //Color de la ventana
-    system("MODE 80,35");  // Tamanio de la pantalla MODE <columnas>,<líneas>
+    system("MODE 80, 35");  // Tamanio de la pantalla MODE <columnas>,<líneas>
 
     GameMap Map;
     Player Hero;

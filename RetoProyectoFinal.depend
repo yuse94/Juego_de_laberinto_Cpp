@@ -45,7 +45,7 @@
 1591998030 c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\include\enemy.h
 	"Player.h"
 
-1608850649 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\juegoenconsola\main.cpp
+1617886598 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\juegoenconsola\main.cpp
 	<iostream>
 	"include/Enemy.h"
 	"include/Enemy.h"
@@ -57,7 +57,7 @@
 1608850588 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\juegoenconsola\src\enemy.cpp
 	"../include/Enemy.h"
 
-1608851165 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\juegoenconsola\src\gamemap.cpp
+1617887356 source:c:\users\yuse\platzi\fundamentos de programación\6 introducción a c++\programas\retoproyectofinal\juegoenconsola\src\gamemap.cpp
 	"../include/GameMap.h"
 	<iostream>
 	<fstream>
